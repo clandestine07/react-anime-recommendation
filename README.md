@@ -1,8 +1,15 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Anime Amigo
+Anime Amigo is a user-friendly platform that recommends anime based on your favorite genres.
 
-Currently, two official plugins are available:
+#API
+The website utilizes the Anilist GraphQL API to display anime data. You can explore the API for more information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Check It Out
+Visit the Anime Amigo website to start discovering anime recommendations!
+
+#Features
+##Genre-Based Recommendations: Choose your favorite genre and receive personalized anime recommendations.
+##Responsive Design: Enjoy a seamless experience on various devices, from desktops to smartphones.
+##Anime Details: Access detailed information about each recommended anime, including characters and average ratings.
+##Aesthetic UI: An attractive and user-friendly interface ensures an enjoyable browsing experience.
