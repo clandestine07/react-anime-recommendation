@@ -1,5 +1,5 @@
 
-#Anime Amigo
+# Anime Amigo
 Anime Amigo is a user-friendly platform that recommends anime based on your favorite genres.
 
 #API
