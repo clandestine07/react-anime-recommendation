@@ -6,7 +6,7 @@ Anime Amigo is a user-friendly platform that recommends anime based on your favo
 The website utilizes the Anilist GraphQL API to display anime data. You can explore the API for more information.
 
 # Check It Out
-[Visit the Anime Amigo website]()
+[Visit the Anime Amigo website](https://animeamigo.netlify.app/)
 
 # Features
  Genre-Based Recommendations: Choose your favorite genre and receive personalized anime recommendations.
